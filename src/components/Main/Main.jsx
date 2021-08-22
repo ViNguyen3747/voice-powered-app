@@ -17,7 +17,7 @@ const Main = () => {
       <CardHeader title="Expense Tracker" subheader="Powered by Sppechly" />
       <CardContent>
         <Typography align="center" variant="h5">
-          Total Balnace $100
+          Total Balance $100
         </Typography>
         <Typography
           variant="subtitle1"
