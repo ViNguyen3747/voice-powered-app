@@ -1,6 +1,7 @@
 import { makeStyles } from "@material-ui/core/styles";
 
 export default makeStyles((theme) => ({
+  //screen larger than small
   desktop: {
     [theme.breakpoints.up("sm")]: {
       display: "none",
